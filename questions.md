@@ -1,9 +1,9 @@
 ## 1. What is the difference between Component and PureComponent? give an example where it might break my app.
-### a) Componente has State, and Pure component dosen't, it dosen't have any side-effects, the props you give is the props you output.
+#### a) Componente has State, and Pure component dosen't, it dosen't have any side-effects, the props you give is the props you output.
 ## b) Didn't test out a brake scenario.
 
 2. Context + ShouldComponentUpdate might be dangerous. Can think of why is that?
-## a) Don't know, I use more Redux and func comp with hooks.
+# a) Don't know, I use more Redux and func comp with hooks.
 
 3. Describe 3 ways to pass information from a component to its PARENT.
 ## a) Through props via function
